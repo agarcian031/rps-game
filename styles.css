@@ -93,4 +93,13 @@ img {
     transform: scale(1.5);
     cursor: pointer;  
 }
+
+/* ACTION MESSAGE - USER PROMPT */
+#action-message {
+    text-align: center; 
+    color: lightpink; 
+    font-family: Asap, sans-serif; 
+    font-weight: bold; 
+    font-size: 35px; 
+}
     
