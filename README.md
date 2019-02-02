@@ -2,7 +2,7 @@
 
 # Preview [HERE](https://agarcian031.github.io/rps-game/)
 ---
-## The Odin Project | [Javascript Basics: Rock, Paper, and Scissors UI](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)
+## The Odin Project | [Javascript Basics: Rock, Paper, and Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)
 ---
 ### Overview: 
 
